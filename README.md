@@ -1,4 +1,4 @@
-# storm-tester
+# taco-simulator
 
 A simple tool to test trooper and footman. This tool will imitate the behaviour of TACO and will replay all the message.
 
